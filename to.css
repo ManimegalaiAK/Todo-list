@@ -1,0 +1,28 @@
+.wrap{
+    margin-left: 400px;
+    background-color: rgb(11, 245, 42);
+    width: 430px;
+    height: 500px;
+}
+h1{
+    color: rgb(233, 97, 6);
+    margin-left: 150px;
+}
+#inputtext{
+    width: 250px;
+    height: 25px;
+    margin-left: 55px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(68, 47, 255);
+}
+ul button{
+    height: 30px;
+    background-color: red;
+    margin-left: 20px;
+}
+ul{
+    margin-left: 100px;
+}
